@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1662463928 source:c:\users\administrator\documents\intensive revision tuts\practical_02_solution\canvas2d.cpp
+	"Canvas2D.h"
+
+1662464281 c:\users\administrator\documents\intensive revision tuts\practical_02_solution\canvas2d.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<cassert>
+	<string>
+	<cmath>
+
+1662464667 source:c:\users\administrator\documents\intensive revision tuts\practical_02_solution\main.cpp
+	<iostream>
+	"Canvas2D.h"
+
